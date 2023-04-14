@@ -1,0 +1,121 @@
+page URL :https://en.wikipedia.org/wiki/Musk_family
+page title :Musk family - Wikipedia
+ ----------------------------------------------------------------------------------------------- 
+{"subject": "Rive Companies", "relation": "is In", "object": "popular culture"}
+{"subject": "Rive Companies", "relation": "is", "object": "family"}
+{"subject": "Rive Companies", "relation": "is family", "object": "active in United States"}
+{"subject": "Rive Companies", "relation": "is family", "object": "largely active"}
+{"subject": "Companies", "relation": "is wealthy", "object": "active"}
+{"subject": "Rive Companies", "relation": "is family", "object": "active"}
+{"subject": "Rive Companies", "relation": "is wealthy family", "object": "largely active in United States"}
+{"subject": "Rive Companies", "relation": "is wealthy family", "object": "active"}
+{"subject": "Rive Companies", "relation": "is family", "object": "largely active in United States"}
+{"subject": "Rive Companies", "relation": "is", "object": "wealthy family"}
+{"subject": "Rive Companies", "relation": "is wealthy family", "object": "largely active"}
+{"subject": "Rive Companies", "relation": "is wealthy family", "object": "active in United States"}
+{"subject": "Musk family Musk", "relation": "Connected", "object": "familiesHaldeman"}
+{"subject": "Musks", "relation": "are of", "object": "Canadian descent"}
+{"subject": "Musks", "relation": "are of", "object": "Anglo Canadian descent"}
+{"subject": "Musks", "relation": "are of", "object": "descent"}
+{"subject": "Musks", "relation": "are of", "object": "Canadian English descent"}
+{"subject": "Musks", "relation": "are of", "object": "Anglo Canadian English descent"}
+{"subject": "Musks", "relation": "are of", "object": "English descent"}
+{"subject": "family", "relation": "is known for", "object": "its entrepreneurial endeavors"}
+{"subject": "family", "relation": "is", "object": "known"}
+{"subject": "family", "relation": "is known for", "object": "its endeavors"}
+{"subject": "surname", "relation": "was", "object": "adopted by Elon Musks ancestors in century"}
+{"subject": "surname", "relation": "was", "object": "where adopted by Elon Musks paternal ancestors in 15th century"}
+{"subject": "surname", "relation": "was", "object": "where adopted by Elon Musks paternal ancestors in century"}
+{"subject": "surname", "relation": "was", "object": "where adopted by Elon Musks paternal ancestors"}
+{"subject": "surname", "relation": "was adopted by", "object": "Elon Musks ancestors"}
+{"subject": "surname", "relation": "was adopted by", "object": "Elon Musks paternal ancestors"}
+{"subject": "surname", "relation": "was", "object": "adopted by Elon Musks ancestors in 15th century"}
+{"subject": "surname", "relation": "was", "object": "where adopted by Elon Musks ancestors in 15th century"}
+{"subject": "surname", "relation": "was", "object": "adopted by Elon Musks paternal ancestors in 15th century"}
+{"subject": "surname", "relation": "was", "object": "adopted by Elon Musks paternal ancestors in century"}
+{"subject": "surname", "relation": "was", "object": "where adopted by Elon Musks ancestors in century"}
+{"subject": "surname", "relation": "was", "object": "where adopted by Elon Musks ancestors"}
+{"subject": "family", "relation": "was part of", "object": "number"}
+{"subject": "family", "relation": "was part of", "object": "number in"}
+{"subject": "family", "relation": "was", "object": "part"}
+{"subject": "His maternal grandfather", "relation": "moved from", "object": "Canada to South Africa"}
+{"subject": "His grandfather", "relation": "moved from", "object": "Canada"}
+{"subject": "His maternal grandfather", "relation": "moved from", "object": "Canada"}
+{"subject": "His grandfather", "relation": "moved from", "object": "Canada to South Africa"}
+{"subject": "His grandfather", "relation": "moved around", "object": "1950"}
+{"subject": "His maternal grandfather", "relation": "moved around", "object": "1950"}
+{"subject": "property developer", "relation": "is in", "object": "South Africa"}
+{"subject": "Errol", "relation": "was", "object": "property developer in South Africa"}
+{"subject": "property developer", "relation": "locations like", "object": "emerald mines"}
+{"subject": "Errol", "relation": "was", "object": "property developer"}
+{"subject": "Michael Musk", "relation": "uncle of", "object": "Elon Musk"}
+{"subject": "dermatologist", "relation": "brother of", "object": "Errol Musk"}
+{"subject": "Elon Musk", "relation": "CEO of", "object": "SpaceX"}
+{"subject": "He", "relation": "was richest person in", "object": "2022"}
+{"subject": "richest person", "relation": "is in", "object": "2022"}
+{"subject": "2022", "relation": "in person is", "object": "10"}
+{"subject": "He", "relation": "was person in", "object": "world"}
+{"subject": "richest person", "relation": "is in", "object": "world"}
+{"subject": "world", "relation": "in person is", "object": "10"}
+{"subject": "He", "relation": "was", "object": "richest person in world in 2022"}
+{"subject": "He", "relation": "was person in", "object": "2022"}
+{"subject": "He", "relation": "was", "object": "person"}
+{"subject": "He", "relation": "was", "object": "person in world in 2022"}
+{"subject": "He", "relation": "was", "object": "richest person"}
+{"subject": "He", "relation": "was richest person in", "object": "world"}
+{"subject": "He", "relation": "later sold", "object": "it"}
+{"subject": "He", "relation": "later sold to", "object": "Compaq"}
+{"subject": "He", "relation": "sold to", "object": "Compaq"}
+{"subject": "He", "relation": "founded Zip2 in", "object": "1998"}
+{"subject": "He", "relation": "sold", "object": "it"}
+{"subject": "He", "relation": "founded with", "object": "his brother"}
+{"subject": "He", "relation": "founded", "object": "Zip2"}
+{"subject": "He", "relation": "founded Zip2 with", "object": "his brother"}
+{"subject": "He", "relation": "founded in", "object": "1998"}
+{"subject": "He", "relation": "is", "object": "co-founder"}
+{"subject": "He", "relation": "chairman of", "object": "Big Green"}
+{"subject": "She", "relation": "has appeared on", "object": "cover"}
+{"subject": "She", "relation": "has appeared on", "object": "cover of magazines"}
+{"subject": "She", "relation": "has appeared on", "object": "cover of magazines including Time magazine health edition"}
+{"subject": "She", "relation": "has appeared on", "object": "cover of several magazines including Time magazine health edition"}
+{"subject": "She", "relation": "has appeared on", "object": "cover of several magazines"}
+{"subject": "Tosca Musk", "relation": "filmmaker of", "object": "Elon Musk"}
+{"subject": "SolarCity", "relation": "served as", "object": "its CEO"}
+{"subject": "SolarCity", "relation": "served until", "object": "2017"}
+{"subject": "He", "relation": "is cousin to", "object": "Elon"}
+{"subject": "He", "relation": "is cousin through", "object": "his mother"}
+{"subject": "his", "relation": "mother", "object": "Maye Musks twin"}
+{"subject": "He", "relation": "is", "object": "cousin to Elon through his mother"}
+{"subject": "He", "relation": "is cousin through", "object": "Maye Musks"}
+{"subject": "He", "relation": "is", "object": "cousin"}
+{"subject": "He", "relation": "is cousin through", "object": "Maye Musks twin"}
+{"subject": "Aus diesem Schweizer Dorf", "relation": "stammt", "object": "Tesla Gr\u00fcnder Elon Musk"}
+{"subject": "Tesla founder Elon Musk", "relation": "comes from", "object": "Swiss village"}
+{"subject": "Tesla founder Elon Musk", "relation": "comes from", "object": "village"}
+{"subject": "Jeff Bezos business inspiration", "relation": "is", "object": "science fiction"}
+{"subject": "Jeff Bezos business inspiration", "relation": "is", "object": "Why science fiction"}
+{"subject": "Jeff Bezos real business inspiration", "relation": "is", "object": "science fiction"}
+{"subject": "Jeff Bezos real business inspiration", "relation": "is", "object": "Why science fiction"}
+{"subject": "Interview", "relation": "is With", "object": "Elon Musks Father"}
+{"subject": "Everyday Heroes", "relation": "Are Re-Imagining", "object": "Way"}
+{"subject": "Build Our World", "relation": "is In", "object": "World"}
+{"subject": "$ 25 million mission", "relation": "fix food in", "object": "schools"}
+{"subject": "$ 25 million mission", "relation": "fix food in", "object": "schools across US"}
+{"subject": "Kimbal Musk", "relation": "is leading", "object": "to fix in schools"}
+{"subject": "Kimbal Musk", "relation": "is leading", "object": "fix"}
+{"subject": "Kimbal Musk", "relation": "is leading", "object": "fix in schools"}
+{"subject": "Kimbal Musk", "relation": "is leading", "object": "to fix"}
+{"subject": "Kimbal Musk", "relation": "is leading", "object": "$ 25 million mission"}
+{"subject": "$ 25 million mission", "relation": "fix in", "object": "schools across US"}
+{"subject": "$ 25 million mission", "relation": "fix in", "object": "schools"}
+{"subject": "$ 25 million mission", "relation": "fix", "object": "food"}
+{"subject": "Kimbal Musk", "relation": "is leading", "object": "to fix in schools across US"}
+{"subject": "Kimbal Musk", "relation": "is leading", "object": "fix in schools across US"}
+{"subject": "Maye Musk", "relation": "Is Reclaiming", "object": "Spotlight"}
+{"subject": "68", "relation": "At Musk is", "object": "Mother of Elon"}
+{"subject": "Maye Musk", "relation": "Mother of", "object": "Elon"}
+{"subject": "Musk", "relation": "Is Reclaiming", "object": "Spotlight"}
+
+ ----------------------------------------------------------------------------------------------- 
+
+ ----------------------------------------------------------------------------------------------- 
